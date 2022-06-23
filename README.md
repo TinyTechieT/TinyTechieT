@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!-- ## Stats
+[![Tina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinyTechieT&show_icons=true&count_private=true&theme=dracula)](https://github.com/TinyTechieT/)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com?user=TinyTechieT&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/TinyTechieT/) -->
 <!--
 **TinyTechieT/TinyTechieT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
